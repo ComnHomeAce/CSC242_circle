@@ -1,2 +1,2 @@
-# CSC242_circle
-for use with git bash and weekly discussions
+# CSC242
+Files for CSC242- Introduction to Programming Concepts
